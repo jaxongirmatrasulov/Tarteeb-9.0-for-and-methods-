@@ -12,10 +12,6 @@ internal class Program
             Console.Write(i + "-");
             Console.WriteLine(i + ":" + Console.ReadLine() + " ball" );
         }
-        // static void New (string message)
-        // {
-        //     Console.WriteLine(message);
-        // }
         
     }
 }
